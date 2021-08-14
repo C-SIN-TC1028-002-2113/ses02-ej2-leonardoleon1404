@@ -4,6 +4,7 @@ def main():
     h=float(input("Dame la altura: "))
     a=(b*h)/2
     print("El área es:", a)
+    
 
 if __name__ == '__main__':
     main()
